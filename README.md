@@ -48,10 +48,16 @@ Este projeto foi construído com uma stack de tecnologias modernas, focando em p
 
   - **Framework:** React
 
-**Infraestrutura:**
+-----
 
-  - **Servidor:** Uvicorn
-  - **CI/CD & Hospedagem:** (Mencione aqui onde o projeto está hospedado, ex: Vercel, Netlify, Railway, etc.)
+### 🏗️ Arquitetura e Hospedagem
+
+A aplicação é distribuída em diferentes serviços de nuvem, aproveitando as vantagens de cada plataforma para garantir performance e escalabilidade dentro de um ambiente gratuito.
+
+- **Backend (API):** O deploy do backend em FastAPI é realizado no **Hugging Face Spaces**, que oferece um ambiente robusto para aplicações de IA.
+- **Frontend (UI):** A interface em React é hospedada na **Vercel**, conhecida por sua integração contínua e otimização de performance para aplicações web.
+- **Banco de Dados:** Utilizamos o **MongoDB Atlas** como o banco de dados vetorial para armazenar a base de conhecimento que alimenta o sistema RAG.
+- **Cache de Sessões:** O **Redis Cloud** é utilizado para gerenciar o cache das sessões de conversa, garantindo que o histórico do chat seja mantido de forma eficiente.
 
 -----
 
@@ -75,7 +81,6 @@ Interaja diretamente com o Davince e teste suas capacidades\!
 >
 > O link para a demonstração ao vivo estará disponível nesta seção assim que a fase de implantação for concluída. Agradecemos a sua visita e o seu interesse no projeto!
 
-
 -----
 
 ## 👥 Nossa Equipe
@@ -90,7 +95,7 @@ Este projeto é o resultado do trabalho colaborativo de uma equipe dedicada. Con
 | **Pedro Henrique Ramos Pereira** | Pesquisador & Curador de Dados | [LinkedIn](https://www.linkedin.com/in/pedro-henrique-ramos-44424737b) |
 | **Marcos Ferreira da Paixão Jr.** | Pesquisador & Curador de Dados | [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/marcos-ferreira-54451132b) |
 
-O projeto é uma iniciativa da organização **[Fyzz Tech](https://www.google.com/search?q=URL_DO_GITHUB_DA_ORGANIZACAO_AQUI)** no GitHub.
+O projeto é uma iniciativa da organização **[Fyzz Tech](https://github.com/Fyzz-Tech)** no GitHub.
 
 -----
 
