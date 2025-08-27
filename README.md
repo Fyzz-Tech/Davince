@@ -4,14 +4,14 @@
 
 ## 📜 Índice
 
-  - [Sobre o Projeto](https://www.google.com/search?q=%23-sobre-o-projeto)
-  - [✨ Funcionalidades](https://www.google.com/search?q=%23-funcionalidades)
-  - [🛠️ Tecnologias Utilizadas](https://www.google.com/search?q=%23%EF%B8%8F-tecnologias-utilizadas)
-  - [🎨 A Persona: O Toque de Da Vinci](https://www.google.com/search?q=%23-a-persona-o-toque-de-da-vinci)
-  - [🚀 Demonstração Ao Vivo](https://www.google.com/search?q=%23-demonstra%C3%A7%C3%A3o-ao-vivo)
-  - [👥 Nossa Equipe](https://www.google.com/search?q=%23-nossa-equipe)
-  - [📫 Contato](https://www.google.com/search?q=%23-contato)
-  - [📄 Licença](https://www.google.com/search?q=%23-licen%C3%A7a)
+  - Sobre o Projeto
+  - ✨ Funcionalidades
+  - 🛠️ Tecnologias Utilizadas
+  - 🎨 A Persona: O Toque de Da Vinci
+  - 🚀 Demonstração Ao Vivo
+  - 👥 Nossa Equipe
+  - 📫 Contato
+  - 📄 Licença
 
 -----
 
