@@ -1,5 +1,4 @@
-# Davince: 
-# Seu Assistente Técnico com a Genialidade de Da Vinci
+# Davince:\n Seu Assistente Técnico com a Genialidade de Da Vinci
 
 > Um assistente de IA para suporte técnico, inspirado em Leonardo Da Vinci, desenvolvido por estudantes de Análise e Desenvolvimento de Sistemas da Universidade Estadual da Paraíba (UEPB).
 
