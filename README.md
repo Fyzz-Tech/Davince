@@ -77,10 +77,7 @@ O grande diferencial do Davince não está apenas no que ele responde, mas em *c
 Interaja diretamente com o Davince e teste suas capacidades\!
 > **⚠️ Aviso Importante:**
 > O projeto é hospedado em plataformas de nuvem gratuitas (como Render, Vercel, etc.). Após um período de inatividade, a instância do servidor entra em hibernação para economizar recursos. Por isso, **a primeira interação pode demorar um pouco mais (cerca de 30 a 60 segundos)** enquanto o serviço "acorda". As respostas seguintes serão instantâneas. Agradecemos a sua paciência\!
-
-> **🚧 Aplicação em Desenvolvimento 🚧**
->
-> O link para a demonstração ao vivo estará disponível nesta seção assim que a fase de implantação for concluída. Agradecemos a sua visita e o seu interesse no projeto!
+> **Link:** [Davince](https://chatboot-davince.vercel.app)
 
 -----
 
